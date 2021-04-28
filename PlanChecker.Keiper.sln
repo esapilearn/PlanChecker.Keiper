@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanChecker.Keiper", "PlanChecker.Keiper\PlanChecker.Keiper.csproj", "{65434E31-503B-4B7E-A847-5AE3622F1E87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65434E31-503B-4B7E-A847-5AE3622F1E87}.Debug|x64.ActiveCfg = Debug|x64
+		{65434E31-503B-4B7E-A847-5AE3622F1E87}.Debug|x64.Build.0 = Debug|x64
+		{65434E31-503B-4B7E-A847-5AE3622F1E87}.Release|x64.ActiveCfg = Release|x64
+		{65434E31-503B-4B7E-A847-5AE3622F1E87}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD0C9E69-D191-4AB6-B69B-983FEA0D6293}
+	EndGlobalSection
+EndGlobal
